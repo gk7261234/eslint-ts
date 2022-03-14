@@ -4,6 +4,8 @@ module.exports = {
     es2021: true
   },
   extends: [
+    'prettier',
+    'eslint:recommended',
     'standard'
   ],
   parser: '@typescript-eslint/parser',
@@ -20,10 +22,9 @@ module.exports = {
     sourceType: 'module'
   },
   plugins: [
+    'prettier',
     'react',
     '@typescript-eslint'
   ],
-  rules: {
-    'no-console': 0
-  }
+  rules: {}
 }
