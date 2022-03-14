@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/gk7261234/eslint-ts/compare/v1.1.0...v1.1.1) (2022-03-14)
+
+
+### Performance Improvements
+
+* **.versionrc:** 添加版本规则 ([bdb76e5](https://github.com/gk7261234/eslint-ts/commit/bdb76e52c6b52d139b31d7855a640e6aec899469))
+
 ## 1.1.0 (2022-03-14)
 
 
